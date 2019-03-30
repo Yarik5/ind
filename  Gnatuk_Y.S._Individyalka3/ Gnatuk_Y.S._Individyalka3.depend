@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1485539860 source:c:\users\Валентин\desktop\internet explorer\ gnatuk_y.s._individyalka3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Matrix.h"
+
+1485537307 c:\users\Валентин\desktop\internet explorer\ gnatuk_y.s._individyalka3\matrix.h
+
+1482489273 source:c:\users\Валентин\desktop\internet explorer\ gnatuk_y.s._individyalka3\matrix.c
+	<stdlib.h>
+	<stdio.h>
+
+1485539862 source:c:\documents and settings\user\Рабочий стол\gnatuk_y_s_individyalka3\ gnatuk_y.s._individyalka3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Matrix.h"
+
+1485537308 c:\documents and settings\user\Рабочий стол\gnatuk_y_s_individyalka3\ gnatuk_y.s._individyalka3\matrix.h
+
+1482489274 source:c:\documents and settings\user\Рабочий стол\gnatuk_y_s_individyalka3\ gnatuk_y.s._individyalka3\matrix.c
+	<stdlib.h>
+	<stdio.h>
+
+1485539862 source:d:\Папка Ярослава\Учоба\Програмач\gnatuk_y_s_individyalka3\ gnatuk_y.s._individyalka3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Matrix.h"
+
+1485537308 d:\Папка Ярослава\Учоба\Програмач\gnatuk_y_s_individyalka3\ gnatuk_y.s._individyalka3\matrix.h
+
+1482489274 source:d:\Папка Ярослава\Учоба\Програмач\gnatuk_y_s_individyalka3\ gnatuk_y.s._individyalka3\matrix.c
+	<stdlib.h>
+	<stdio.h>
+
